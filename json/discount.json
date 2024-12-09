@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "name": "Fixed amount",
+    "category": "coupon",
+    "type": "fixed",
+    "amount": 0
+  },
+  {
+    "id": 2,
+    "name": "Percentage discount",
+    "category": "coupon",
+    "type": "percentage",
+    "amount": 0
+  },
+  {
+    "id": 3,
+    "name": "Percentage discount by item category",
+    "category": "on top",
+    "type": "category",
+    "amount": 0,
+    "productCategory": []
+  },
+  {
+    "id": 4,
+    "name": "Discount by point",
+    "category": "on top",
+    "type": "point",
+    "amount": 0
+  },
+  {
+    "id": 5,
+    "name": "Special campaigns",
+    "category": "seasonal",
+    "type": "special",
+    "every": 0,
+    "discount": 0,
+    "amount": 0
+  }
+]

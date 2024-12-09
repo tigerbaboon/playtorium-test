@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "T-Shirt",
+    "categoryId": 1,
+    "categoryName": "Clothing",
+    "price": 350
+  },
+  {
+    "id": 2,
+    "name": "Hoodie",
+    "categoryId": 1,
+    "categoryName": "Clothing",
+    "price": 700
+  },
+  {
+    "id": 3,
+    "name": "Bag",
+    "categoryId": 2,
+    "categoryName": "Accessories",
+    "price": 640
+  },
+  {
+    "id": 4,
+    "name": "Belt",
+    "categoryId": 2,
+    "categoryName": "Accessories",
+    "price": 230
+  },
+  {
+    "id": 5,
+    "name": "Hat",
+    "categoryId": 2,
+    "categoryName": "Accessories",
+    "price": 250
+  },
+  {
+    "id": 6,
+    "name": "Watch",
+    "categoryId": 2,
+    "categoryName": "Accessories",
+    "price": 850
+  },
+  {
+    "id": 6,
+    "name": "Hamberger",
+    "categoryId": 4,
+    "categoryName": "Food",
+    "price": 90
+  }
+]
